@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ASCII Art Studio</string>
+    <string name="local_image">Выбрать картинку из галереи</string>
+</resources>
